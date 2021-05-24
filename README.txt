@@ -29,3 +29,11 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+
+Versión 1.2 Correcciones.
+-corregido las faltas ortográficas de la versión 1.1
+-agregado primer proyecto a “mi portafolio”
+-Cambiado color de los botones “demo”
+-modificado el header
+-modificado el footer
